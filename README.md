@@ -106,7 +106,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/mental-health-ann.git
+
 cd mental-health-ann
 Create a virtual environment:
 
